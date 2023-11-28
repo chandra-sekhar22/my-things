@@ -1,0 +1,56 @@
+h1 {
+    color:rgb(46, 0, 34);
+    text-align: center;
+    display: inline-internal;
+}
+body {
+    background-color: yellow;
+    margin: 0;
+}
+button {
+    border: none;
+    color: red;
+    background-color: blue;
+}
+div {
+    background-color: red;
+    width: 100px;
+    margin:auto;
+     
+}
+header{
+    background: rgba(0, 0, 0, 0.486);
+    background-image: url("images/portfolio.jpg");
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: black;
+    padding: 100px ;
+    margin-left: 0;
+}
+section{
+    background: white;
+    color: aqua;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    margin-right: 0;
+}
+footer{
+    background: rgba(0, 0, 0, 0.747);
+    padding: 20px;
+}
+ul {
+    
+    list-style-type: none;
+    margin-top: 10px;
+    margin-left: 0;
+}
+li {
+    display: inline-block;
+    background-color: white;
+    border-radius: 5px;
+    margin-right: 20px;
+    margin-left: 20px;
+    
+}
